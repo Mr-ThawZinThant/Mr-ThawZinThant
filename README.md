@@ -1,6 +1,7 @@
 # 💫 About Me:
-👋Hi, My name is Thaw Zin Thant<br>I'm a 16-year-old high school student studying in Myanmar.<br>I'm passionate about learning ML and Data Science <br>Aside from coding, I also like to read history📘, watch sci-fi movies🎥
+👋Hi, My name is Thaw Zin Thant<br>I'm a 17-year-old high school student studying in Myanmar.<br>I'm passionate about learning ML and Data Science <br>Aside from coding, I also like to read history📘, watch sci-fi movies🎥
 
+Yes , I'm back!
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mr_Chocolate2482007) 
