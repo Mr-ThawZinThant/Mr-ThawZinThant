@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, My name is Thaw Zin Thant<br>I'm a 17-year-old high school student studying in Myanmar.<br>I'm passionate about learning ML and Data Science <br>Aside from coding, I also like to read history📘, watch sci-fi movies🎥
+👋Hi, My name is Thaw Zin Thant<br>I'm a 19-year-old high school student studying in Myanmar.<br>I'm passionate about learning ML and Data Science <br>Aside from coding, I also like to read history📘, watch sci-fi movies🎥
 
 Yes , I'm back!
 
